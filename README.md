@@ -59,10 +59,10 @@ A partir do desenvolvimento deste projeto, foi possível concluir os objetivos e
 ## Screenshots do Aplicativo
 
 ### Tela de Login
-![Tela de Login](../assets/TelaLogin.png)
+![Tela de Login](./assets/TelaLogin.png)
 
 ### Tela Home
-![Tela Home](./assets/home.png)
+![Tela Home](./assets/TelaHome.png)
 
 ### Tela de Treino
-![Tela de Academia](./assets/academia.png)
+![Tela de Academia](./assets/TelaTreino.png)
